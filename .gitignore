@@ -1,0 +1,5 @@
+# Database files
+inventory.db
+
+# Summary file
+inventory_summary.sql
