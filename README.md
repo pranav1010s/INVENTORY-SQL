@@ -25,11 +25,3 @@ QUICK START
 
 2. Run a query:
    sqlite3 inventory.db < BLOCKED_INVENTORY.sql
-
-
-CONNECT TO DBEAVER
-
-1. Open DBeaver
-2. New Connection and select SQLite
-3. Browse to inventory.db
-4. Click Test Connection then Finish
